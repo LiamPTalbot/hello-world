@@ -1,4 +1,4 @@
 # hello-world
-*Hello
+## Hello
 This repository is for practicing GitHub Flow
 ans how to use the Repo System
